@@ -1,6 +1,6 @@
 # Task Manager & Team Collaboration
 
-**Course:** Team Project – IT  
+**Course:** Team Project - IT  
 **Assignment:** Practical Assignment 1  
 **Student Name:** Tughan Bulut Kurtulus  
 **Student ID:** `73454`  
@@ -18,11 +18,11 @@
 
 ## 2. Team Collaboration & Pull Requests
 Collaboration was completed via verified GitHub Pull Requests:
-1. **Pull Request Received & Merged (Incoming from Partner Cihan):**
+1. **Pull Request Received & Merged (Incoming from Partner Cihan Karayigit):**
    - **Author:** Cihan Karayigit (`70407` / [cihankara70407](https://github.com/cihankara70407))
    - **PR Link:** [https://github.com/73454tughan/vistula-task-manager/pull/1](https://github.com/73454tughan/vistula-task-manager/pull/1)
    - **Status:** Merged into `73454tughan/vistula-task-manager:main`
-2. **Pull Request Created & Merged (Outgoing to Partner Cihan's Repository):**
+2. **Pull Request Created & Merged (Outgoing to Partner Cihan Karayigit's Repository):**
    - **Author:** Tughan Bulut Kurtulus (`73454` / [73454tughan](https://github.com/73454tughan))
    - **Target Repository:** [https://github.com/cihankara70407/vistula-task-manager](https://github.com/cihankara70407/vistula-task-manager)
    - **PR Link:** [https://github.com/cihankara70407/vistula-task-manager/pull/1](https://github.com/cihankara70407/vistula-task-manager/pull/1)
